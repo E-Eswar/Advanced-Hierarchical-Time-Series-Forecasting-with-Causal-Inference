@@ -1,0 +1,2 @@
+# Advanced-Hierarchical-Time-Series-Forecasting-with-Causal-Inference
+This project delivers an advanced forecasting solution for sales data structured across multiple hierarchical levels (product, region, and total). The objective is not only to generate accurate forecasts, but also to ensure structural consistency across the hierarchy and to explain the impact of business interventions in a decision-ready manner.
